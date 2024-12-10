@@ -27,12 +27,9 @@ The core phpMyAdmin project focuses on developing a phpMyAdmin dashboard for man
 
 <h2 id="technologies">☄️ Technologies</h2>
 
-#6C78AF
-phpmyadmin
-
-### DevOps
-
 &nbsp; [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+&nbsp; [![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 
 <br/>
 
