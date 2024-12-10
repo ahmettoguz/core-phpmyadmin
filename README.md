@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img height=400 src="assets/banner.png">
+    <img height=120 src="assets/banner.png">
 </div>
 
 <br>
@@ -19,16 +19,20 @@
  
 <br/>
 
-<h2 id="intro">📌 About Project</h2> 
+<h2 id="intro">📌 About Project</h2>
 
+The core phpMyAdmin project focuses on developing a phpMyAdmin dashboard for managing MySQL databases with a dark theme, using microservice architecture.
   
 <br/>
 
 <h2 id="technologies">☄️ Technologies</h2>
 
-### Web Server
+#6C78AF
+phpmyadmin
 
-&nbsp; [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+### DevOps
+
+&nbsp; [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 <br/>
 
