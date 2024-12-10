@@ -21,7 +21,7 @@
 
 <h2 id="intro">📌 About Project</h2>
 
-The core phpMyAdmin project focuses on developing a phpMyAdmin dashboard for managing MySQL databases with a dark theme, using microservice architecture.
+The core phpMyAdmin project focuses on building a phpMyAdmin image for managing MySQL databases with a dark theme, using microservice architecture.
   
 <br/>
 
