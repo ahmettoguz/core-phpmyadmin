@@ -13,7 +13,6 @@
 - [About Project](#intro)
 - [Technologies](#technologies)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [System Startup](#system-startup)
 - [Contributors](#contributors)
  
@@ -29,29 +28,27 @@ The core phpMyAdmin project focuses on building a phpMyAdmin image for managing 
 
 &nbsp; [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-&nbsp; [![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-6C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
+&nbsp; [![PHPMYADMIN](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 
 <br/>
 
 <h2 id="features">🔥 Features</h2>
 
-+ **TLS/HTTPS:** Centralized TLS/HTTPS encryption for all services using self-signed certificates through Traefik.
-+ **Fault Tolerance & Load Balancing:** Applications deployed with replicas to ensure fault tolerance and effective load balancing.
-
-<br/>
-
-<h2 id="prerequisites">🔒 Prerequisites</h2>
-
-body
++ **Dark Theme Interface:** A phpMyAdmin dashboard for managing MySQL databases with a dark theme.
++ **Docker Containerization:** The application is containerized for consistent deployment and scaling.
 
 <br/>
 
 <h2 id="system-startup">🚀 System Startup</h2> 
 
-### title
-body
+* Create a new directory named "core".
+* Clone the `core-docker-config` and `core-phpmyadmin` repositories into the "core" directory.
+```
+git clone https://github.com/ahmettoguz/core-docker-config
+git clone https://github.com/ahmettoguz/core-phpmyadmin
+```
+* Refer to the documentation provided in the [`core-docker-config`](https://github.com/ahmettoguz/core-docker-config) project for the system startup commands.
 
-<br/>
 
 <br/>
 
