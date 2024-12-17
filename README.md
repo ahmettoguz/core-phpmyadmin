@@ -48,8 +48,8 @@ The core phpMyAdmin project focuses on building a phpMyAdmin image for managing 
 
 <h2 id="system-startup">🚀 System Startup</h2> 
 
-* Create a new directory named "core".
-* Clone the `core-docker-config` and `core-phpmyadmin` repositories into the "core" directory.
+* Create a new directory named `core`.
+* Clone the `core-docker-config` and `core-phpmyadmin` repositories into the `core` directory.
 ```
 git clone https://github.com/ahmettoguz/core-docker-config
 git clone https://github.com/ahmettoguz/core-phpmyadmin
